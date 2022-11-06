@@ -44,7 +44,7 @@
       position: absolute;
       top: 10px;
       right: 20px;
-      color: #fff;
+      color: transparent;
       font-style: italic;
       font-size: 32px;
       font-weight: bold;
@@ -94,7 +94,7 @@
 </head>
 <body>
 <div id="TopMainPan">
-  <div id="topPan">
+  <div id="topPan"><!--хедер-->
     <div id="topheaderPan"><a href="index.html"><img src="images/logo1.png" width="228" height="54" border="0" alt="На главную" title="На главную" /></a>
       <p class="captiontext">Электронные книги для образования, бизнеса, досуга</p>
 	  
