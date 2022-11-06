@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Библиотека</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+<div id="TopMainPan">
+  <div id="topPan">
+    <div id="topheaderPan"> <a href="index.html"><img src="images/logo1.png" alt="На главную" width="228" height="54" border="0" title="На главную" /></a>
+      <p class="captiontext">Электронные книги для образования, бизнеса, досуга</p>
+    </div>
+    <div id="topbodyleftPan">
+      <ul>
+        <li class="home"><a href="index.html">Главная</a></li>
+        <li><a href="onas.html">О нас</a></li>
+        <li><a href="avtor.html">Автор</a></li>
+        <li><a href="top.html">Топ 100</a></li>
+        <li><a href="novo.html">Новое</a></li>
+		<li><a href="kontakt.html">Контакты</a></li>
+		<li><a href="gostevaya.php">Гостевая</a></li>
+        
+      </ul>
+    </div>
+    <div id="topbodyrightPan">
+      <h2>Афоризм</h2><br>
+      <p align="justify"><i>Любая книга — умный друг:<br>
+Чуть утомит, она смолкает;<br>
+Она безмолвно поучает,<br>
+С ней назидателен досуг.<br>
+
+	  </i></p><br>
+      <p class="more"><b>Лопе де Вега</b></p>
+    </div>
+  </div>
+</div>
+<div id="bodyMainPan">
+  <div id="bodyPan">
+    <div id="bodyleftPan">
+      <div id="linkPan">
+        <p>
+		<img src="images/dl.jpg"><br><br><br><br>
+		<a href="dl1.html"><img src="images/knopka.jpg" style="width="10px" height="35px""></a>
+		</p>
+      </div>
+      <div id="seminnerPan">
+        <p align="justify">
+		Название:Петля и камень в зелёной траве <br><br>
+		Автор: Братья Вайнеры<br><br>
+		Описание: Братья Вайнеры. Петля и камень в зелёной траве [Дилогия] - 1   Вступительная статья Л.Разгона «Ничего, кроме правды…»   Это страшная книга. Я прочитал ее два раза и — при всём своём жизненном опыте и тех знаниях, в которых больше всего печали, — не мог не содрогнуться. Но разве может быть ужасным детектив? Какие бы страсти‑мордасти в нём ни рассказывались, мы знаем, что в такой книге содержатся определённые «правила игры», что в ней всё должно закончиться благополучно и добро всегда
+		</p>
+ 
+      </div>
+	  <div id="linkPan">
+        <p>
+		<img src="images/dl1.jpg"><br><br><br><br>
+		<a href="dl2.html"><img src="images/knopka.jpg" style="width="10px" height="35px""></a>
+		</p>
+      </div>
+      <div id="seminnerPan">
+        <p align="justify">
+		Название:Переломный момент <br><br>
+		Автор: Малкольм Гладуэлл<br><br>
+		Описание: Малкольм Гладуэлл. Переломный момент   Благодарности
+		</p>
+ 
+      </div>
+      
+    </div>
+    <div id="bodyrightPan">
+      
+      <h3>Жанры</h3>
+      <ul>
+        <li><a href="dl.html">Деловая литература</a></li>
+        <li><a href="dtl.html">Детская литература </a></li>
+        <li><a href="dol.html">Документальная литература</a></li>
+        <li><a href="dr.html">Драматургия</a></li>
+        <li><a href="i.html">История</a></li>
+        <li><a href="kl.html">Классика</a></li>
+        <li><a href="lr.html">Любовные романы </a></li>
+        <li><a href="p.html">Поэзия</a></li>
+        <li><a href="pr.html">Приключения</a></li>
+        <li><a href="pro.html">Проза</a></li>
+		<li><a href="sl.html">Справочная литература</a></li>
+        <li><a href="stl.html">Старинная литература </a></li>
+        <li><a href="y.html">Ужасы</a></li>
+        <li><a href="f.html">Фантастика</a></li>
+        <li><a href="fi.html">Философия</a></li>
+        <li><a href="fe.html">Фэнтези</a></li>
+        <li><a href="u.html">Юмор </a></li>
+
+     
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="footermainPan">
+
+  <div id="footerPan">
+    <ul>
+       <li class="home"><a href="index.html">Главная |</a></li>
+        <li><a href="onas.html">О нас |</a></li>
+        <li><a href="avtor.html">Автор |</a></li>
+        <li><a href="top.html">Топ 100 |</a></li>
+        <li><a href="novo.html">Новое | </a></li>
+		<li><a href="kontakt.html">Контакты</a></li>
+    </ul>
+    <p class="copyright">2022 &copy Все права защищены.</p>
+    
+    
+  </div>
+</div>
+</body>
+</html>
