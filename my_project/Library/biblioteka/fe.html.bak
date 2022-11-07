@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Библиотека</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link href="style.css" rel="stylesheet" type="text/css" />
 
 </head>
@@ -93,14 +94,14 @@
 <div id="footermainPan">
 
   <div id="footerPan">
-    <ul>
-      <li class="home"><a href="index.html">Главная |</a></li>
-        <li><a href="onas.html">О нас |</a></li>
-        <li><a href="avtor.html">Автор |</a></li>
-        <li><a href="top.html">Топ 100 |</a></li>
-        <li><a href="novo.html">Новое | </a></li>
-		<li><a href="kontakt.html">Контакты</a></li>
-    </ul>
+  
+      <p><a href="index.html">Главная |</a>
+        <a href="onas.html">О нас |</a>
+        <a href="avtor.html">Автор |</a>
+        <a href="top.html">Топ 100 |</a>
+        <a href="novo.html">Новое | </a>
+		<a href="kontakt.html">Контакты</a></p>
+   <br>
     <p class="copyright">2022 &copy Все права защищены.</p>
     
     

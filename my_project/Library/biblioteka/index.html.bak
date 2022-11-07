@@ -4,7 +4,7 @@
 <title>Библиотека</title>
 <link href="style.css" rel="stylesheet">
 <link href="css/swiper.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
   <title>JavaScript SimpleAdaptiveSlider - Слайдер для сайта на чистом JavaScript [Example 01]</title>
@@ -98,6 +98,11 @@
     <div id="topheaderPan"><a href="index.html"><img src="images/logo1.png" width="228" height="54" border="0" alt="На главную" title="На главную" /></a>
       <p class="captiontext">Электронные книги для образования, бизнеса, досуга</p>
 	  
+<form class="example" action="action_page.php">
+  <input type="text" placeholder="Искать книгу" name="search">
+  <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+
 
 	</div>
     <div id="topbodyleftPan">
@@ -174,7 +179,7 @@
  
       </div>
       <h3 align="justify"> Высказывания Великих Поэтов</h3><br>
-      <p align="justify"><i>"Всюду, где есть ум человеческий, должна быть книга."</i> В.Гюго</p><br>
+      <p align="justify"><i>"Всюду, где есть ум человеческий, должна быть книга."</i>   В.Гюго</p><br>
       <p align="justify"><i>"Книга — такое же явление жизни, как человек."</i> Максим Горький</p><br>
       <p align="justify"><i>"Надо пользоваться не красотой книг, а всем, что в них написано."</i> Лукиан</p>
     

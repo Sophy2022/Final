@@ -97,8 +97,7 @@
 
   <div id="footerPan">
     <p>
-      <a href="index.html">Главная</a>
-        <<a href="index.html">Главная |</a>
+        <a href="index.html">Главная |</a>
         <a href="onas.html">О нас |</a>
         <a href="avtor.html">Автор |</a>
         <a href="top.html">Топ 100 |</a>

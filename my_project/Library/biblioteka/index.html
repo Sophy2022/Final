@@ -4,25 +4,9 @@
 <title>Библиотека</title>
 <link href="style.css" rel="stylesheet">
 <link href="css/swiper.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
-  <title>JavaScript SimpleAdaptiveSlider - Слайдер для сайта на чистом JavaScript [Example 01]</title>
-  <!-- Подключаем CSS слайдера -->
-  <link rel="stylesheet" href="../css/simple-adaptive-slider.css">
-  <!-- Подключаем JS слайдера -->
-  <script defer src="../js/simple-adaptive-slider.js"></script>
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      // инициализация слайдера
-      var slider = new ItcSimpleSlider('.itcss', {
-        loop: true,
-        autoplay: true,
-        swipe: true
-      });
-    });
-  </script>
-  <style>
+<style>
     /* стили для элемента body */
     body {
       margin: 0;
@@ -76,6 +60,23 @@
     }
   </style>
 
+  <title>JavaScript SimpleAdaptiveSlider - Слайдер для сайта на чистом JavaScript [Example 01]</title>
+  <!-- Подключаем CSS слайдера -->
+  <link rel="stylesheet" href="../css/simple-adaptive-slider.css">
+  <!-- Подключаем JS слайдера -->
+  <script defer src="../js/simple-adaptive-slider.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // инициализация слайдера
+      var slider = new ItcSimpleSlider('.itcss', {
+        loop: true,
+        autoplay: true,
+        swipe: true
+      });
+    });
+  </script>
+  
+
 
 
 
@@ -98,6 +99,11 @@
     <div id="topheaderPan"><a href="index.html"><img src="images/logo1.png" width="228" height="54" border="0" alt="На главную" title="На главную" /></a>
       <p class="captiontext">Электронные книги для образования, бизнеса, досуга</p>
 	  
+<form class="example" action="action_page.php">
+  <input type="text" placeholder="Искать книгу" name="search">
+  <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+
 
 	</div>
     <div id="topbodyleftPan">
