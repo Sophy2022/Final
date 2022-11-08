@@ -135,9 +135,7 @@ font:24px/28px Georgia, "Times New Roman", Times, serif;
 font-weight:bold; 
 padding:0 150px 0 0;
 }
-.slider{
-background:#deb887;
-}
+
 
 #topheaderPan img.logo{
 width:228px; 
